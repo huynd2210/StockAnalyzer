@@ -1,0 +1,5 @@
+NASDAQ.txt
+NYSE.txt
+financialData.pickle
+*.pkl
+*.picklegit rm --cached *.pkl *.pickle

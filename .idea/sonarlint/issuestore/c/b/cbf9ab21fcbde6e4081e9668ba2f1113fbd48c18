@@ -1,0 +1,29 @@
+
+ipython:S1192õ"KDefine a constant instead of duplicating this literal 'Adj Close' 13 times.(Šš¯”üÿÿÿÿ
+hpython:S1192Ç"JDefine a constant instead of duplicating this literal '1.0/split' 4 times.(³¤¨Úúÿÿÿÿ
+jpython:S1192½
+"LDefine a constant instead of duplicating this literal '1D change X' 3 times.(›™•éıÿÿÿÿ
+cpython:S1192"JDefine a constant instead of duplicating this literal "Adj Close" 8 times.(µÓš
+epython:S1192Â"MDefine a constant instead of duplicating this literal "Stock Splits" 9 times.(ûº‡
+cpython:S1192€"JDefine a constant instead of duplicating this literal "Day Start" 3 times.(æøºå
+fpython:S1192ú"MDefine a constant instead of duplicating this literal 'Stock Splits' 9 times.(¶„€Ï
+ipython:S1192ı"KDefine a constant instead of duplicating this literal "Week Start" 3 times.(šä ­ùÿÿÿÿ
+gpython:S1192É"NDefine a constant instead of duplicating this literal "Capital Gains" 9 times.(‚ïé¬
+ipython:S1192Ø"KDefine a constant instead of duplicating this literal "Repaired?" 27 times.(¬íşşÿÿÿÿ
+hpython:S1192¹	"JDefine a constant instead of duplicating this literal 'Repaired?' 7 times.(ï¢à´úÿÿÿÿ
+Mpython:S1066œ"/Merge this if statement with the enclosing one.(ìé¡¥ùÿÿÿÿ
+hpython:S107"LMethod "history" has 14 parameters, which is greater than the 13 authorized.(ï–¦Şøÿÿÿÿ
+rpython:S3776"URefactor this function to reduce its Cognitive Complexity from 137 to the 15 allowed.(ï–¦Şøÿÿÿÿ
+[python:S112é">Replace this generic exception class with a more specific one.(·İŠÚıÿÿÿÿ
+Dpython:S1481¶"+Remove the unused local variable "n_fixed".(åšßæ
+spython:S3776¶"URefactor this function to reduce its Cognitive Complexity from 187 to the 15 allowed.(±©…èÿÿÿÿÿ
+Vpython:S112»">Replace this generic exception class with a more specific one.(ÙÄı
+python:S1871Á"cEither merge this branch with the identical one on line "575" or change one of the implementations.(Ò­ûÌùÿÿÿÿ
+mpython:S1854ÿ"ORemove this assignment to local variable 'df2_tagged'; the value is never used.(ĞÍùÿÿÿÿ
+rpython:S3776µ"TRefactor this function to reduce its Cognitive Complexity from 65 to the 15 allowed.(¶¥Š‘ÿÿÿÿÿ
+mpython:S3776à"TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(˜êøŸ
+_python:S1854â
+"FRemove this assignment to local variable 'r'; the value is never used.(şµôç
+npython:S3776Ô	"URefactor this function to reduce its Cognitive Complexity from 274 to the 15 allowed.(ò¡å¸
+6python:S125©"Remove this commented out code.(˜õıh
+Apython:S108–")Either remove or fill this block of code.(ã‘Û¾
